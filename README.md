@@ -125,17 +125,6 @@ Machine-learning project testing whether first-half MLB performance can predict 
 
 ---
 
-## Current Direction
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Building-Baseball%20Analytics-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Improving-ML%20Pipelines-0F172A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Exploring-Data%20Engineering-2563EB?style=for-the-badge" />
-</p>
-
-
----
-
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:2563EB,100:0F172A&section=footer"
