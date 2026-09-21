@@ -107,20 +107,6 @@ Machine-learning project testing whether first-half MLB performance can predict 
 </tr>
 </table>
 
----
-
-## How I Work
-
-```mermaid
-flowchart LR
-    A[Raw Data] --> B[Clean + Validate]
-    B --> C[Feature Engineering]
-    C --> D[Model / Logic]
-    D --> E[Visualize]
-    E --> F[Measure + Improve]
-```
-
----
 
 ## Tools & Technologies
 
