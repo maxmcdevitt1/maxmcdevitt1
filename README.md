@@ -26,9 +26,17 @@
 
 ## About
 
-Data Science, aspiring nerd, baseball fan
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Science-0F172A?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Baseball-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
+
+<p align="center">
+  Data science student. Aspiring nerd. Baseball fan.
+</p>
 ## Featured Projects
 
 <table>
