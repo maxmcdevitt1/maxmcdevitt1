@@ -1,19 +1,15 @@
-```html
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=220&text=MAX%20MCDEVITT&fontSize=55&fontAlignY=38&animation=fadeIn&section=header"
     width="100%"
   />
 </p>
-```
 
-```html
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2400&pause=700&center=true&vCenter=true&width=700&lines=%24+whoami;Data+Science+Student;Baseball+Analytics+Developer;Python+%7C+Java+%7C+C+%7C+SQL;Machine+Learning+%7C+Automation+%7C+Linux"
   />
 </p>
-```
 
 ```text
 ┌──[max@github]─[~]
@@ -60,19 +56,19 @@ A data-driven baseball player evaluation system designed to eventually:
 player statistics
        │
        ▼
- feature engineering
+feature engineering
        │
        ▼
- player ratings
+player ratings
        │
        ▼
- team ratings
+team ratings
        │
        ▼
- predictive models
+predictive models
        │
        ▼
- future performance
+future performance
 ```
 
 Current work:
@@ -147,9 +143,7 @@ Model Evaluation
 ## `$ cat tech_stack.txt`
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,c,linux,bash,git,github,vscode&perline=8" />
-
+  <img src="https://skillicons.dev/icons?i=python,java,c,linux,bash,git,github,vscode&perline=8" />
 </p>
 
 ```text
@@ -238,15 +232,11 @@ a91f84c  improve baseball rating methodology
 ## `$ ping github.com`
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=maxmcdevitt1&show_icons=true&hide_border=true" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=maxmcdevitt1&show_icons=true&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxmcdevitt1&layout=compact&hide_border=true" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxmcdevitt1&layout=compact&hide_border=true" />
 </p>
 
 ---
@@ -266,11 +256,9 @@ Fixing things...
 BUILD SUCCESSFUL
 ```
 
-```html
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"
     width="100%"
   />
 </p>
-```
