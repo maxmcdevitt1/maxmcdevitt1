@@ -1,10 +1,5 @@
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=MAX%20MCDEVITT&fontSize=55&fontAlignY=38&animation=fadeIn&section=header"
-    width="100%"
-  />
-</p>
+<img width="100%"
+src="https://capsule-render.vercel.app/api?type=rect&height=180&text=MAX%20MCDEVITT&fontSize=50&animation=blink&section=header">
 
 <p align="center">
   <img
