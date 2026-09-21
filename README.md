@@ -26,10 +26,7 @@
 
 ## About
 
-B.S. Data Science student building practical projects across **baseball analytics, machine learning, and industrial automation**.
-
-I enjoy taking messy real-world data, building reliable pipelines around it, and turning the results into something measurable and useful.
-
+Data Science, aspiring nerd, baseball fan
 ---
 
 ## Featured Projects
