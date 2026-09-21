@@ -27,16 +27,12 @@
 ## About
 
 ---
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science-0F172A?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Baseball-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=white" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=2500&pause=900&center=true&vCenter=true&width=550&lines=Data+Science+Student;Aspiring+Nerd;Baseball+Fan"
+  />
 </p>
 
-<p align="center">
-  Data science student. Aspiring nerd. Baseball fan.
-</p>
 ## Featured Projects
 
 <table>
