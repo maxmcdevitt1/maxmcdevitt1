@@ -24,14 +24,13 @@
 
 ---
 
+
 ## About
 
 ---
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=2500&pause=900&center=true&vCenter=true&width=550&lines=Data+Science+Student;Aspiring+Nerd;Baseball+Fan"
-  />
-</p>
+
+Data science student. Aspiring nerd. Baseball fan.
+
 
 ## Featured Projects
 
