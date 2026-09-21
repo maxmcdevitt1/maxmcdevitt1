@@ -133,9 +133,6 @@ Machine-learning project testing whether first-half MLB performance can predict 
   <img src="https://img.shields.io/badge/Exploring-Data%20Engineering-2563EB?style=for-the-badge" />
 </p>
 
-```text
-Build → Measure → Improve
-```
 
 ---
 
