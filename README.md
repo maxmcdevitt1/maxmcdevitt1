@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,100:2563EB&text=Max%20McDevitt&fontColor=FFFFFF&fontSize=44&fontAlignY=38&"
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,100:2563EB&text=Max%20McDevitt&fontColor=FFFFFF&fontSize=44&fontAlignY=38&desc=Data%20Science%20%7C%20Baseball%20Analytics%20%7C%20Automation&descAlignY=60&descSize=16"
     width="100%"
     alt="Max McDevitt"
   />
@@ -42,8 +42,8 @@ I enjoy taking messy real-world data, building reliable pipelines around it, and
 
 A baseball analytics system for evaluating MLB players and eventually producing team-level ratings and future performance predictions.
 
-**Current focus**
-- Pitcher evaluation pipeline
+**Focus**
+- Pitcher evaluation
 - Player rating methodology
 - Visual analytics
 - Predictive modeling
@@ -88,20 +88,37 @@ Machine-learning project testing whether first-half MLB performance can predict 
 </td>
 <td width="50%" valign="top">
 
-### 🔧 Currently Building
+### 🧭 Areas of Focus
 
-```text
-Pitcher pipeline    ████████████████░░░░
-Player ratings      ██████████░░░░░░░░░░
-Visualization       ██████░░░░░░░░░░░░░░
-Team model          ██░░░░░░░░░░░░░░░░░░
-```
+- Data pipelines
+- Feature engineering
+- Predictive modeling
+- Visualization
+- Automation
+- Linux-based tooling
 
-Focused on making projects more reproducible, testable, and presentation-ready.
+<p>
+  <img src="https://img.shields.io/badge/Data%20Pipelines-0F172A?style=flat-square" />
+  <img src="https://img.shields.io/badge/ML-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Visualization-0F172A?style=flat-square" />
+</p>
 
 </td>
 </tr>
 </table>
+
+---
+
+## How I Work
+
+```mermaid
+flowchart LR
+    A[Raw Data] --> B[Clean + Validate]
+    B --> C[Feature Engineering]
+    C --> D[Model / Logic]
+    D --> E[Visualize]
+    E --> F[Measure + Improve]
+```
 
 ---
 
@@ -122,26 +139,19 @@ Focused on making projects more reproducible, testable, and presentation-ready.
 
 ---
 
-## GitHub
+## Current Direction
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=maxmcdevitt1&show_icons=true&hide_border=true&rank_icon=github&title_color=2563EB"
-    height="160"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxmcdevitt1&layout=compact&hide_border=true&title_color=2563EB"
-    height="160"
-    alt="Top languages"
-  />
+  <img src="https://img.shields.io/badge/Building-Baseball%20Analytics-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Improving-ML%20Pipelines-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Exploring-Data%20Engineering-2563EB?style=for-the-badge" />
 </p>
+
+```text
+Build → Measure → Improve
+```
 
 ---
-
-<p align="center">
-  <sub>Build → Measure → Improve</sub>
-</p>
 
 <p align="center">
   <img
