@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student;Baseball+Analytics;PLC+Automation;Python+%7C+Java+%7C+SQL&center=true&width=500&height=50">
-</p>
+
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=220&text=MAX%20MCDEVITT&fontSize=55&fontAlignY=38&animation=fadeIn&section=header"
