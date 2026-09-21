@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,100:2563EB&text=Max%20McDevitt&fontColor=FFFFFF&fontSize=44&fontAlignY=38&desc=Data%20Science%20%7C%20Baseball%20Analytics%20%7C%20Automation&descAlignY=60&descSize=16"
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,100:2563EB&text=Max%20McDevitt&fontColor=FFFFFF&fontSize=44&fontAlignY=38&"
     width="100%"
     alt="Max McDevitt"
   />
