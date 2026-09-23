@@ -10,7 +10,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2600&pause=900&color=2563EB&center=true&vCenter=true&width=650&lines=Building+data-driven+projects;Turning+raw+data+into+useful+systems;Learning+through+real-world+problems"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2600&pause=900&color=2563EB&center=true&vCenter=true&width=650&lines=Building+data-driven+projects"
     alt="Typing introduction"
   />
 </p>
